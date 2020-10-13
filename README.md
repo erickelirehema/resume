@@ -17,4 +17,4 @@ Resume and Portfolio Site by Erick Elirehema Lukumai
 * https://twitter.com/SBootstrap
 
 ## Copyright and License
-	@ Copyright 020
+	@ Copyright 2020
