@@ -1,6 +1,6 @@
 # [Erick Lukumai - Resume](https://e60s.co)
 
-[Resume](https://e60s.co) is a resume and CV
+[My Resume](https://e60s.co) showcasing educational level, experience, skills, interest and awards
 ## Preview
 
 [![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
