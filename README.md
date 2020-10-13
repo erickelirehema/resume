@@ -3,7 +3,7 @@
 [My Resume](http://e60s.co) showcasing educational level, experience, skills, interest and awards
 ## Preview
 
-[![Resume Preview]()
+<!-- [![Resume Preview]() -->
 
 **[View Live Preview](http://e60s.co)**
 
