@@ -1,11 +1,11 @@
-# [Erick Lukumai - Resume](https://e60s.co)
+# [Erick Lukumai - Resume](http://e60s.co)
 
-[My Resume](https://e60s.co) showcasing educational level, experience, skills, interest and awards
+[My Resume](http://e60s.co) showcasing educational level, experience, skills, interest and awards
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview]()
 
-**[View Live Preview](https://e60s.co)**
+**[View Live Preview](http://e60s.co)**
 
 ## About
 
